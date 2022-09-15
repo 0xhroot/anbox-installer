@@ -12,7 +12,7 @@ d8'          `8b  88       88  8Y"Ybbd8"'    `"YbbdP"'  8P'     `Y8
 
 # Ip-Informer
 # Version     : 1.0
-# Description : this tool gives the ip adress information.
+# Description : this tool helps to install anbox & might save your time
 # Author      : white_devil & Rani Joshi
 # instagram   : https://www.instagram.com/white_hacker.official/
 # language    : python
