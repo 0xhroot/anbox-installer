@@ -9,8 +9,11 @@ this tool will install anbox latest version and if anbox having playstore glich 
 #[+] Installation
 
 $ git clone 
+
 $ cd anbox-installer
+
 $ chmod +x debian.sh arch.sh
+
 $ sudo bash debian.sh or arch.sh (depend on your os)
 
 
