@@ -10,7 +10,7 @@ This tool works on both debian & arch based linux
 
 # [+] Installation
 
-$ git clone 
+$ git clone https://github.com/white-hacker010/anbox-installer
 
 $ cd anbox-installer
 
