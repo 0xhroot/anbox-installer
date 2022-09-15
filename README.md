@@ -6,6 +6,8 @@ its a simple tool made for beginner because many beginner crash their linux due 
 
 this tool will install anbox latest version and if anbox having playstore glich this tool will fix it easily
 
+This tool works on both debian & arch based linux
+
 # [+] Installation
 
 $ git clone 
