@@ -18,6 +18,10 @@ $ chmod +x debian.sh arch.sh
 
 $ sudo bash debian.sh or arch.sh (depend on your os)
 
+ or 
+ 
+$ sudo ./ ( depend on your os )
+
 
 
 # |  END  |
