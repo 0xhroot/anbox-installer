@@ -1,0 +1,22 @@
+                                                                     
+       db                      88                                    
+      d88b                     88                                    
+     d8'`8b                    88                                    
+    d8'  `8b      8b,dPPYba,   88,dPPYba,    ,adPPYba,  8b,     ,d8  
+   d8YaaaaY8b     88P'   `"8a  88P'    "8a  a8"     "8a  `Y8, ,8P'   
+  d8""""""""8b    88       88  88       d8  8b       d8    )888(     
+ d8'        `8b   88       88  88b,   ,a8"  "8a,   ,a8"  ,d8" "8b,   
+d8'          `8b  88       88  8Y"Ybbd8"'    `"YbbdP"'  8P'     `Y8  
+                                          [ version 1.0]
+                                          [ by white_hacker.official ] 
+
+# Ip-Informer
+# Version     : 1.0
+# Description : this tool gives the ip adress information.
+# Author      : white_devil & Rani Joshi
+# instagram   : https://www.instagram.com/white_hacker.official/
+# language    : python
+# Country     : IN
+
+# Anbox is installing please wait...                      
+                                                                     
