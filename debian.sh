@@ -11,3 +11,4 @@ snap refresh --beta --devmode anbox
 snap info anbox
 sudo ./install-playstore.sh
 cat end.txt
+anbox
