@@ -8,12 +8,12 @@
  d8'        `8b   88       88  88b,   ,a8"  "8a,   ,a8"  ,d8" "8b,   
 d8'          `8b  88       88  8Y"Ybbd8"'    `"YbbdP"'  8P'     `Y8  
                                           [ version 1.0]
-                                          [ by white_hacker.official ] 
+                                          [ by nc-exe ] 
 
 # Ip-Informer
 # Version     : 1.0
 # Description : this tool helps to install anbox & might save your time
-# Author      : white_devil & Rani Joshi
+# Author      : NC-EXE & devil-girl
 # instagram   : https://www.instagram.com/white_hacker.official/
 # language    : python
 # Country     : IN
